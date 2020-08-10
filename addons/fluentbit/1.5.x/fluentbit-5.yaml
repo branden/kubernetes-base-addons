@@ -218,4 +218,4 @@ spec:
               Format json
               Time_Keep On
               Time_Key requestReceivedTimestamp
-              Time_Format %Y-%m-%dT%H:%M:%S.%L
+              Time_Format %Y-%m-%dT%H:%M:%S.%L%Z
